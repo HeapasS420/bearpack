@@ -1,0 +1,3 @@
+[submodule "kubejs"]
+	path = kubejs
+	url = https://github.com/HeapasS420/kubejs-for-bearpack
